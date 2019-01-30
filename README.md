@@ -28,3 +28,5 @@ Please see usual interview questions.
 - https://medium.com/@duruldalkanat/ios-interview-questions-13840247a57a (a multi part article)
 - https://github.com/onthecodepath/iOS-Interview-Questions
 - and many others that you can find by googling.
+
+A life without love is of no account. Don’t ask yourself what kind of love you should seek, spiritual or material, divine or mundane, Eastern or Western. Divisions only lead to more divisions. Love has no labels, no definitions. It is what it is, pure and simple. Love is the water of life. And a lover is a soul of fire! The universe turns differently when fire loves water.
